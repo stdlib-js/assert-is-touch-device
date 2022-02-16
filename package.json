@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-touch-device",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Boolean indicating if the current environment is a touch device.",
   "license": "Apache-2.0",
   "author": {
