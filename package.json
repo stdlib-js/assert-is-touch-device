@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-touch-device",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Boolean indicating if the current environment is a touch device.",
   "license": "Apache-2.0",
   "author": {
@@ -37,11 +37,11 @@
   },
   "dependencies": {
     "@stdlib/assert-is-browser": "^0.2.2",
-    "@stdlib/utils-constant-function": "^0.2.2",
-    "@stdlib/utils-global": "^0.2.2"
+    "@stdlib/utils-constant-function": "^0.2.3",
+    "@stdlib/utils-global": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/utils-noop": "^0.2.2",
+    "@stdlib/utils-noop": "^0.2.3",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
