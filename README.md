@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import IS_TOUCH_DEVICE from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-touch-device@esm/index.mjs';
+import IS_TOUCH_DEVICE from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-touch-device@v0.2.2-esm/index.mjs';
 ```
 
 #### IS_TOUCH_DEVICE
@@ -76,7 +76,7 @@ var bool = IS_TOUCH_DEVICE;
 <body>
 <script type="module">
 
-import IS_TOUCH_DEVICE from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-touch-device@esm/index.mjs';
+import IS_TOUCH_DEVICE from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-touch-device@v0.2.2-esm/index.mjs';
 
 console.log( IS_TOUCH_DEVICE );
 // => <boolean>
